@@ -1,0 +1,155 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: simple-poll-survey-builder 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-05-22 10:00+0900\n"
+"PO-Revision-Date: 2024-05-22 10:05+0900\n"
+"Last-Translator: The Suwan News Company\n"
+"Language-Team: The Suwan News Company\n"
+"Language: ko_KR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Domain: simple-poll-survey-builder\n"
+
+#: custom-poll-system.php:관리자메뉴
+msgid "Polls"
+msgstr "설문조사"
+
+msgid "Add New Poll"
+msgstr "설문 추가"
+
+msgid "Poll Logs"
+msgstr "참여 로그"
+
+msgid "Settings"
+msgstr "환경설정"
+
+msgid "Help!"
+msgstr "도와주세요!"
+
+#: custom-poll-system.php:설문목록
+msgid "Poll List"
+msgstr "설문 목록"
+
+msgid "Add New"
+msgstr "새로 추가"
+
+msgid "Title"
+msgstr "제목"
+
+msgid "Shortcode"
+msgstr "숏코드"
+
+msgid "Actions"
+msgstr "관리"
+
+msgid "Edit"
+msgstr "수정"
+
+msgid "Delete"
+msgstr "삭제"
+
+msgid "Are you sure you want to delete this?"
+msgstr "정말로 이 설문을 삭제하시겠습니까?"
+
+#: custom-poll-system.php:설문추가폼
+msgid "Edit Poll"
+msgstr "설문 수정"
+
+msgid "Enter poll question here"
+msgstr "설문 질문을 입력하세요"
+
+msgid "Button Color"
+msgstr "버튼 색상"
+
+msgid "Options (Draggable)"
+msgstr "항목 (드래그 가능)"
+
+msgid "Option text"
+msgstr "항목 입력"
+
+msgid "Add Option"
+msgstr "항목 추가"
+
+msgid "Save Poll"
+msgstr "설문 저장"
+
+msgid "At least one option is required."
+msgstr "설문 항목은 최소 1개 이상이어야 합니다."
+
+#: custom-poll-system.php:환경설정
+msgid "Poll Settings"
+msgstr "설문조사 환경설정"
+
+msgid "Participation Permission"
+msgstr "참여 권한"
+
+msgid "All visitors can participate"
+msgstr "모든 방문자 참여 가능"
+
+msgid "Only logged-in members can participate"
+msgstr "로그인한 회원만 참여 가능"
+
+msgid "Duplicate Participation"
+msgstr "중복 참여 제한"
+
+msgid "Restrict duplicate participation by IP"
+msgstr "IP 주소 기준으로 동일 설문 중복 참여 제한"
+
+msgid "Save Settings"
+msgstr "저장하기"
+
+msgid "Settings saved."
+msgstr "설정이 저장되었습니다."
+
+#: custom-poll-system.php:도움말
+msgid "How to use Shortcode"
+msgstr "1. 설문 숏코드 사용법"
+
+msgid "Copy and paste the shortcode below into your page or post."
+msgstr "생성한 설문조사를 페이지나 포스트에 삽입하려면 아래의 숏코드를 복사하여 붙여넣으세요."
+
+msgid "Poll ID"
+msgstr "설문ID"
+
+msgid "You can find the Poll ID in the %s menu."
+msgstr "설문 ID는 %s 메뉴에서 확인하실 수 있습니다."
+
+msgid "Plugin Author Information"
+msgstr "2. 플러그인 제작자 정보"
+
+msgid "This plugin was produced by %s."
+msgstr "본 플러그인은 %s에서 제작되었습니다."
+
+msgid "Official Website"
+msgstr "공식 홈페이지"
+
+msgid "Buy the Author a Coffee"
+msgstr "3. 제작자에게 커피 한 잔 후원하기"
+
+msgid "If this plugin helped you, please consider supporting the author!"
+msgstr "플러그인이 도움이 되셨다면 제작자를 후원해 주세요!"
+
+#: custom-poll-system.php:프론트엔드
+msgid "View Results"
+msgstr "결과보기"
+
+msgid "Vote"
+msgstr "투표하기"
+
+msgid "Poll Results"
+msgstr "투표 결과"
+
+msgid "Please participate after logging in."
+msgstr "로그인 후 설문 참여해주세요."
+
+msgid "You have already participated in this poll."
+msgstr "이미 참여하신 설문입니다."
+
+msgid "%d votes (%s%%)"
+msgstr "%d 표 (%s%%)"
+
+msgid "Total Participants: %s"
+msgstr "총 참여자: %s명"
